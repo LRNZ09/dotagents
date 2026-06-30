@@ -1,0 +1,28 @@
+# My portable @sentry/dotagents config — the single source of truth for my
+# ~/.agents. Reproduce it on any machine with:
+#
+#   cp agents.toml ~/.agents/agents.toml && npx @sentry/dotagents --user install
+#
+# Skills are fetched, not vendored here:
+#   - getsentry/skills — Sentry's official skills
+#   - LRNZ09/skills     — my own skills. My commit skill is named `commit-series`
+#                         so it sits alongside getsentry/skills' `commit` rather
+#                         than colliding with it.
+
+version = 1
+agents = ["claude", "vscode", "opencode"]
+
+[trust]
+github_orgs = ["getsentry", "LRNZ09", "mattpocock"]
+
+[[skills]]
+name = "dotagents"
+source = "getsentry/dotagents"
+
+[[skills]]
+name = "*"
+source = "getsentry/skills"
+
+[[skills]]
+name = "*"
+source = "LRNZ09/skills"
