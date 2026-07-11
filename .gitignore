@@ -1,5 +1,6 @@
 .DS_Store
 
-# Managed state written by `dotagents --user install` — fetched, not vendored
-agents.lock
+# Managed state written by `dotagents --user install` — fetched, not vendored.
+# agents.lock is deliberately tracked (against dotagents convention) so clones
+# record the exact resolved commits; `install`/`sync` may warn about it.
 skills/
