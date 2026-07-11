@@ -39,6 +39,7 @@ exclude = [
   "sred-project-organizer",  # SR&ED tax docs
   "sred-work-summary",
   "typing-exclusion-worker", # Sentry's mypy-debt worker
+  "doc-coauthoring",         # vendored copy — anthropics/skills is the upstream original
 ]
 
 [[skills]]
@@ -54,6 +55,3 @@ env = ["GITHUB_TOKEN"]
 [[skills]]
 name = "*"
 source = "anthropics/skills"
-exclude = [
-  "doc-coauthoring", # collides with getsentry/skills' copy, which stays
-]

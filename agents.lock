@@ -98,10 +98,10 @@ resolved_path = "skills/django-perf-review"
 resolved_commit = "5a64b36c62d042d3981b7937d9d6ca7bd1753b9a"
 
 [skills.doc-coauthoring]
-source = "getsentry/skills"
-resolved_url = "https://github.com/getsentry/skills"
+source = "anthropics/skills"
+resolved_url = "https://github.com/anthropics/skills"
 resolved_path = "skills/doc-coauthoring"
-resolved_commit = "5a64b36c62d042d3981b7937d9d6ca7bd1753b9a"
+resolved_commit = "9d2f1ae187231d8199c64b5b762e1bdf2244733d"
 
 [skills.docx]
 source = "anthropics/skills"
