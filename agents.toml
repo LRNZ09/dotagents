@@ -18,7 +18,7 @@ minimum_release_age = 10080
 minimum_release_age_exclude = ["LRNZ09/*"]
 
 [trust]
-github_orgs = ["getsentry", "LRNZ09", "mattpocock"]
+github_orgs = ["getsentry", "LRNZ09", "mattpocock", "anthropics"]
 
 [[skills]]
 name = "dotagents"
@@ -50,3 +50,10 @@ name = "github"
 command = "npx"
 args = ["-y", "@modelcontextprotocol/server-github"]
 env = ["GITHUB_TOKEN"]
+
+[[skills]]
+name = "*"
+source = "anthropics/skills"
+exclude = [
+  "doc-coauthoring", # collides with getsentry/skills' copy, which stays
+]

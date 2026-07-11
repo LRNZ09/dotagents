@@ -7,17 +7,41 @@ resolved_url = "https://github.com/getsentry/skills"
 resolved_path = "skills/agents-md"
 resolved_commit = "5a64b36c62d042d3981b7937d9d6ca7bd1753b9a"
 
+[skills.algorithmic-art]
+source = "anthropics/skills"
+resolved_url = "https://github.com/anthropics/skills"
+resolved_path = "skills/algorithmic-art"
+resolved_commit = "9d2f1ae187231d8199c64b5b762e1bdf2244733d"
+
 [skills.apply-pr-feedback]
 source = "LRNZ09/skills"
 resolved_url = "https://github.com/LRNZ09/skills"
 resolved_path = "skills/apply-pr-feedback"
 resolved_commit = "688dad4ec97cb7ad078cbd8f106c84c569c947a4"
 
+[skills.brand-guidelines]
+source = "anthropics/skills"
+resolved_url = "https://github.com/anthropics/skills"
+resolved_path = "skills/brand-guidelines"
+resolved_commit = "9d2f1ae187231d8199c64b5b762e1bdf2244733d"
+
+[skills.canvas-design]
+source = "anthropics/skills"
+resolved_url = "https://github.com/anthropics/skills"
+resolved_path = "skills/canvas-design"
+resolved_commit = "9d2f1ae187231d8199c64b5b762e1bdf2244733d"
+
 [skills.caveman]
 source = "LRNZ09/skills"
 resolved_url = "https://github.com/LRNZ09/skills"
 resolved_path = "skills/caveman"
 resolved_commit = "688dad4ec97cb7ad078cbd8f106c84c569c947a4"
+
+[skills.claude-api]
+source = "anthropics/skills"
+resolved_url = "https://github.com/anthropics/skills"
+resolved_path = "skills/claude-api"
+resolved_commit = "9d2f1ae187231d8199c64b5b762e1bdf2244733d"
 
 [skills.claude-settings-audit]
 source = "getsentry/skills"
@@ -79,6 +103,12 @@ resolved_url = "https://github.com/getsentry/skills"
 resolved_path = "skills/doc-coauthoring"
 resolved_commit = "5a64b36c62d042d3981b7937d9d6ca7bd1753b9a"
 
+[skills.docx]
+source = "anthropics/skills"
+resolved_url = "https://github.com/anthropics/skills"
+resolved_path = "skills/docx"
+resolved_commit = "9d2f1ae187231d8199c64b5b762e1bdf2244733d"
+
 [skills.dotagents]
 source = "getsentry/dotagents"
 resolved_url = "https://github.com/getsentry/dotagents"
@@ -91,6 +121,12 @@ source = "getsentry/skills"
 resolved_url = "https://github.com/getsentry/skills"
 resolved_path = "skills/find-bugs"
 resolved_commit = "5a64b36c62d042d3981b7937d9d6ca7bd1753b9a"
+
+[skills.frontend-design]
+source = "anthropics/skills"
+resolved_url = "https://github.com/anthropics/skills"
+resolved_path = "skills/frontend-design"
+resolved_commit = "9d2f1ae187231d8199c64b5b762e1bdf2244733d"
 
 [skills.generate-pr-description]
 source = "LRNZ09/skills"
@@ -128,17 +164,41 @@ resolved_url = "https://github.com/LRNZ09/skills"
 resolved_path = "skills/improve-codebase-architecture"
 resolved_commit = "688dad4ec97cb7ad078cbd8f106c84c569c947a4"
 
+[skills.internal-comms]
+source = "anthropics/skills"
+resolved_url = "https://github.com/anthropics/skills"
+resolved_path = "skills/internal-comms"
+resolved_commit = "9d2f1ae187231d8199c64b5b762e1bdf2244733d"
+
 [skills.iterate-pr]
 source = "getsentry/skills"
 resolved_url = "https://github.com/getsentry/skills"
 resolved_path = "skills/iterate-pr"
 resolved_commit = "5a64b36c62d042d3981b7937d9d6ca7bd1753b9a"
 
+[skills.mcp-builder]
+source = "anthropics/skills"
+resolved_url = "https://github.com/anthropics/skills"
+resolved_path = "skills/mcp-builder"
+resolved_commit = "9d2f1ae187231d8199c64b5b762e1bdf2244733d"
+
+[skills.pdf]
+source = "anthropics/skills"
+resolved_url = "https://github.com/anthropics/skills"
+resolved_path = "skills/pdf"
+resolved_commit = "9d2f1ae187231d8199c64b5b762e1bdf2244733d"
+
 [skills.post-pr-review-comments]
 source = "LRNZ09/skills"
 resolved_url = "https://github.com/LRNZ09/skills"
 resolved_path = "skills/post-pr-review-comments"
 resolved_commit = "688dad4ec97cb7ad078cbd8f106c84c569c947a4"
+
+[skills.pptx]
+source = "anthropics/skills"
+resolved_url = "https://github.com/anthropics/skills"
+resolved_path = "skills/pptx"
+resolved_commit = "9d2f1ae187231d8199c64b5b762e1bdf2244733d"
 
 [skills.pr-link-issue]
 source = "getsentry/skills"
@@ -182,6 +242,12 @@ resolved_url = "https://github.com/getsentry/skills"
 resolved_path = "skills/security-review"
 resolved_commit = "5a64b36c62d042d3981b7937d9d6ca7bd1753b9a"
 
+[skills.skill-creator]
+source = "anthropics/skills"
+resolved_url = "https://github.com/anthropics/skills"
+resolved_path = "skills/skill-creator"
+resolved_commit = "9d2f1ae187231d8199c64b5b762e1bdf2244733d"
+
 [skills.skill-scanner]
 source = "getsentry/skills"
 resolved_url = "https://github.com/getsentry/skills"
@@ -194,14 +260,50 @@ resolved_url = "https://github.com/getsentry/skills"
 resolved_path = "skills/skill-writer"
 resolved_commit = "5a64b36c62d042d3981b7937d9d6ca7bd1753b9a"
 
+[skills.slack-gif-creator]
+source = "anthropics/skills"
+resolved_url = "https://github.com/anthropics/skills"
+resolved_path = "skills/slack-gif-creator"
+resolved_commit = "9d2f1ae187231d8199c64b5b762e1bdf2244733d"
+
 [skills.tdd]
 source = "LRNZ09/skills"
 resolved_url = "https://github.com/LRNZ09/skills"
 resolved_path = "skills/tdd"
 resolved_commit = "688dad4ec97cb7ad078cbd8f106c84c569c947a4"
 
+[skills.template-skill]
+source = "anthropics/skills"
+resolved_url = "https://github.com/anthropics/skills"
+resolved_path = "template"
+resolved_commit = "9d2f1ae187231d8199c64b5b762e1bdf2244733d"
+
+[skills.theme-factory]
+source = "anthropics/skills"
+resolved_url = "https://github.com/anthropics/skills"
+resolved_path = "skills/theme-factory"
+resolved_commit = "9d2f1ae187231d8199c64b5b762e1bdf2244733d"
+
 [skills.triage]
 source = "LRNZ09/skills"
 resolved_url = "https://github.com/LRNZ09/skills"
 resolved_path = "skills/triage"
 resolved_commit = "688dad4ec97cb7ad078cbd8f106c84c569c947a4"
+
+[skills.web-artifacts-builder]
+source = "anthropics/skills"
+resolved_url = "https://github.com/anthropics/skills"
+resolved_path = "skills/web-artifacts-builder"
+resolved_commit = "9d2f1ae187231d8199c64b5b762e1bdf2244733d"
+
+[skills.webapp-testing]
+source = "anthropics/skills"
+resolved_url = "https://github.com/anthropics/skills"
+resolved_path = "skills/webapp-testing"
+resolved_commit = "9d2f1ae187231d8199c64b5b762e1bdf2244733d"
+
+[skills.xlsx]
+source = "anthropics/skills"
+resolved_url = "https://github.com/anthropics/skills"
+resolved_path = "skills/xlsx"
+resolved_commit = "9d2f1ae187231d8199c64b5b762e1bdf2244733d"
