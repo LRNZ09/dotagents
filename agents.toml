@@ -1,7 +1,7 @@
-# My portable @sentry/dotagents config — the single source of truth for my
-# ~/.agents. Reproduce it on any machine with:
+# My portable @sentry/dotagents config — this repo is cloned at ~/.agents
+# itself, so this file IS the live user-scope config. Reproduce on any machine:
 #
-#   cp agents.toml ~/.agents/agents.toml && npx @sentry/dotagents --user install
+#   git clone https://github.com/LRNZ09/dotagents.git ~/.agents && npx @sentry/dotagents --user install
 #
 # Skills are fetched, not vendored here:
 #   - getsentry/skills — Sentry's official skills

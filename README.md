@@ -7,6 +7,10 @@ Sentry's official skills from [getsentry/skills](https://github.com/getsentry/sk
 
 ## Use it
 
+This repo is cloned at `~/.agents` itself, so `agents.toml` is the live
+user-scope config — CLI edits land in the working tree and are committed
+directly. Managed state (`skills/`, `agents.lock`) stays gitignored.
+
 `~/.agents` is managed entirely by `@sentry/dotagents` — never edit it by hand.
 The sources, trust, and target agents recorded in `agents.toml` were all set with
 `npx @sentry/dotagents --user add` / `trust add` / `remove`; reconcile an existing

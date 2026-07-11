@@ -1,1 +1,5 @@
 .DS_Store
+
+# Managed state written by `dotagents --user install` — fetched, not vendored
+agents.lock
+skills/
