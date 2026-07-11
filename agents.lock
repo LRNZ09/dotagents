@@ -19,12 +19,6 @@ resolved_url = "https://github.com/LRNZ09/skills"
 resolved_path = "skills/apply-pr-feedback"
 resolved_commit = "688dad4ec97cb7ad078cbd8f106c84c569c947a4"
 
-[skills.brand-guidelines]
-source = "anthropics/skills"
-resolved_url = "https://github.com/anthropics/skills"
-resolved_path = "skills/brand-guidelines"
-resolved_commit = "9d2f1ae187231d8199c64b5b762e1bdf2244733d"
-
 [skills.canvas-design]
 source = "anthropics/skills"
 resolved_url = "https://github.com/anthropics/skills"
@@ -164,12 +158,6 @@ resolved_url = "https://github.com/LRNZ09/skills"
 resolved_path = "skills/improve-codebase-architecture"
 resolved_commit = "688dad4ec97cb7ad078cbd8f106c84c569c947a4"
 
-[skills.internal-comms]
-source = "anthropics/skills"
-resolved_url = "https://github.com/anthropics/skills"
-resolved_path = "skills/internal-comms"
-resolved_commit = "9d2f1ae187231d8199c64b5b762e1bdf2244733d"
-
 [skills.iterate-pr]
 source = "getsentry/skills"
 resolved_url = "https://github.com/getsentry/skills"
@@ -271,12 +259,6 @@ source = "LRNZ09/skills"
 resolved_url = "https://github.com/LRNZ09/skills"
 resolved_path = "skills/tdd"
 resolved_commit = "688dad4ec97cb7ad078cbd8f106c84c569c947a4"
-
-[skills.template-skill]
-source = "anthropics/skills"
-resolved_url = "https://github.com/anthropics/skills"
-resolved_path = "template"
-resolved_commit = "9d2f1ae187231d8199c64b5b762e1bdf2244733d"
 
 [skills.theme-factory]
 source = "anthropics/skills"

@@ -55,3 +55,8 @@ env = ["GITHUB_TOKEN"]
 [[skills]]
 name = "*"
 source = "anthropics/skills"
+exclude = [
+  "template-skill",  # empty boilerplate, placeholder description
+  "brand-guidelines",# Anthropic's brand — would mis-trigger on any styling ask
+  "internal-comms",  # Anthropic-internal comms formats, broad trigger
+]
