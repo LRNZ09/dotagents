@@ -47,6 +47,21 @@ every skill. `skills/` stays gitignored — managed state, refetched on install.
 - Pinned `ref`s (e.g. `getsentry/dotagents` at `1.17.0`) where reproducibility
   beats freshness.
 
+## Cheatsheet
+
+Every command targets the user scope: `npx @sentry/dotagents --user <command>`.
+
+| Command | What it does |
+| ------- | ------------ |
+| `install` | Fetch/refresh everything declared in `agents.toml` (doubles as update — there is no `update` command) |
+| `list` | Show installed skills and their status (`--json` available) |
+| `add <source> [skill…]` | Add skills from a source; `--all` for a wildcard, `@ref` to pin |
+| `remove <name>` | Remove a skill; offers to `exclude` it if it came from a wildcard |
+| `trust add <org>` | Allow a GitHub org/repo as a skill source |
+| `mcp add\|remove\|list` | Manage MCP server declarations |
+| `sync` | Reconcile offline: adopt orphans, prune stale skills, repair symlinks and configs |
+| `doctor` | Health check; `--fix` auto-repairs — useful after dotagents upgrades |
+
 ## Conventions
 
 `~/.agents` is managed by `@sentry/dotagents` — prefer CLI edits
