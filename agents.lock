@@ -31,12 +31,6 @@ resolved_url = "https://github.com/LRNZ09/skills"
 resolved_path = "skills/caveman"
 resolved_commit = "688dad4ec97cb7ad078cbd8f106c84c569c947a4"
 
-[skills.claude-api]
-source = "anthropics/skills"
-resolved_url = "https://github.com/anthropics/skills"
-resolved_path = "skills/claude-api"
-resolved_commit = "9d2f1ae187231d8199c64b5b762e1bdf2244733d"
-
 [skills.claude-settings-audit]
 source = "getsentry/skills"
 resolved_url = "https://github.com/getsentry/skills"
@@ -229,12 +223,6 @@ source = "getsentry/skills"
 resolved_url = "https://github.com/getsentry/skills"
 resolved_path = "skills/security-review"
 resolved_commit = "5a64b36c62d042d3981b7937d9d6ca7bd1753b9a"
-
-[skills.skill-creator]
-source = "anthropics/skills"
-resolved_url = "https://github.com/anthropics/skills"
-resolved_path = "skills/skill-creator"
-resolved_commit = "9d2f1ae187231d8199c64b5b762e1bdf2244733d"
 
 [skills.skill-scanner]
 source = "getsentry/skills"

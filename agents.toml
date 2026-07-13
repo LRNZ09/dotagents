@@ -59,4 +59,6 @@ exclude = [
   "template-skill",  # empty boilerplate, placeholder description
   "brand-guidelines",# Anthropic's brand — would mis-trigger on any styling ask
   "internal-comms",  # Anthropic-internal comms formats, broad trigger
+  "skill-creator",   # getsentry's skill-writer is the one skill-authoring skill
+  "claude-api",      # Claude Code bundles its own, tuned and auto-updated
 ]
