@@ -5,9 +5,7 @@
 #
 # Skills are fetched, not vendored here:
 #   - getsentry/skills — Sentry's official skills
-#   - LRNZ09/skills     — my own skills. My commit skill is named `commit-series`
-#                         so it sits alongside getsentry/skills' `commit` rather
-#                         than colliding with it.
+#   - LRNZ09/skills     — my own skills
 
 version = 1
 agents = ["claude", "vscode", "opencode"]
