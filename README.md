@@ -59,7 +59,7 @@ Every command targets the user scope: `npx @sentry/dotagents --user <command>`.
 | `remove <name>` | Remove a skill; offers to `exclude` it if it came from a wildcard |
 | `trust add <org>` | Allow a GitHub org/repo as a skill source |
 | `mcp add\|remove\|list` | Manage MCP server declarations |
-| `sync` | Reconcile offline: adopt orphans, prune stale skills, repair symlinks and configs |
+| `sync` | **Don't run here** — it adopts every undeclared dir in `skills/` (the `twg*` skills installed by Atlassian's `twg` CLI, claude.ai's `synced/` bucket) into `agents.toml` as `path:` entries, which then break `install` on a fresh clone. `install` and `doctor` cover the rest |
 | `doctor` | Health check; `--fix` auto-repairs — useful after dotagents upgrades |
 
 ## Conventions
