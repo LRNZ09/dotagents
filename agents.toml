@@ -21,7 +21,7 @@ github_orgs = ["getsentry", "LRNZ09", "mattpocock", "anthropics"]
 [[skills]]
 name = "dotagents"
 source = "getsentry/dotagents"
-ref = "1.17.0"
+ref = "3.1.0"
 
 # Sentry-internal skills are excluded — not usable outside Sentry, and every
 # installed skill's description costs session context.

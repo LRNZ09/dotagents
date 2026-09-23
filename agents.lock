@@ -113,8 +113,8 @@ resolved_commit = "34040c9c568585f6929bedeaad110ad08f079624"
 source = "getsentry/dotagents"
 resolved_url = "https://github.com/getsentry/dotagents"
 resolved_path = "skills/dotagents"
-resolved_commit = "399121d28144c118883ade1815081e2db0830e91"
-resolved_ref = "1.17.0"
+resolved_commit = "d37a1bf48384c73e1e246f7838351b56ceb5fb0c"
+resolved_ref = "3.1.0"
 
 [skills.find-bugs]
 source = "getsentry/skills"
