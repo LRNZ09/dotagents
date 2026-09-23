@@ -5,7 +5,7 @@ version = 1
 source = "anthropics/skills"
 resolved_url = "https://github.com/anthropics/skills"
 resolved_path = "skills/academy-guide"
-resolved_commit = "41bbe19d1a1a7eaab5e7bb9050a417e5c6cffc8f"
+resolved_commit = "34040c9c568585f6929bedeaad110ad08f079624"
 
 [skills.agents-md]
 source = "getsentry/skills"
@@ -17,19 +17,19 @@ resolved_commit = "c2f99a5b04b4cd992ec3022d7c2c3e23e938d241"
 source = "anthropics/skills"
 resolved_url = "https://github.com/anthropics/skills"
 resolved_path = "skills/algorithmic-art"
-resolved_commit = "41bbe19d1a1a7eaab5e7bb9050a417e5c6cffc8f"
+resolved_commit = "34040c9c568585f6929bedeaad110ad08f079624"
 
 [skills.canvas-design]
 source = "anthropics/skills"
 resolved_url = "https://github.com/anthropics/skills"
 resolved_path = "skills/canvas-design"
-resolved_commit = "41bbe19d1a1a7eaab5e7bb9050a417e5c6cffc8f"
+resolved_commit = "34040c9c568585f6929bedeaad110ad08f079624"
 
 [skills.caveman]
 source = "LRNZ09/skills"
 resolved_url = "https://github.com/LRNZ09/skills"
 resolved_path = "skills/caveman"
-resolved_commit = "b8f7b532b8a084853af08e07caa310cd67613eb3"
+resolved_commit = "6000ac3fef4b85134865e7860e0a561da99739fa"
 
 [skills.claude-settings-audit]
 source = "getsentry/skills"
@@ -53,7 +53,7 @@ resolved_commit = "c2f99a5b04b4cd992ec3022d7c2c3e23e938d241"
 source = "LRNZ09/skills"
 resolved_url = "https://github.com/LRNZ09/skills"
 resolved_path = "skills/codename"
-resolved_commit = "b8f7b532b8a084853af08e07caa310cd67613eb3"
+resolved_commit = "6000ac3fef4b85134865e7860e0a561da99739fa"
 
 [skills.commit]
 source = "getsentry/skills"
@@ -65,7 +65,7 @@ resolved_commit = "c2f99a5b04b4cd992ec3022d7c2c3e23e938d241"
 source = "LRNZ09/skills"
 resolved_url = "https://github.com/LRNZ09/skills"
 resolved_path = "skills/council"
-resolved_commit = "b8f7b532b8a084853af08e07caa310cd67613eb3"
+resolved_commit = "6000ac3fef4b85134865e7860e0a561da99739fa"
 
 [skills.create-branch]
 source = "getsentry/skills"
@@ -77,13 +77,13 @@ resolved_commit = "c2f99a5b04b4cd992ec3022d7c2c3e23e938d241"
 source = "LRNZ09/skills"
 resolved_url = "https://github.com/LRNZ09/skills"
 resolved_path = "skills/diagnose"
-resolved_commit = "b8f7b532b8a084853af08e07caa310cd67613eb3"
+resolved_commit = "6000ac3fef4b85134865e7860e0a561da99739fa"
 
 [skills.discernment-nudge]
 source = "anthropics/skills"
 resolved_url = "https://github.com/anthropics/skills"
 resolved_path = "skills/discernment-nudge"
-resolved_commit = "41bbe19d1a1a7eaab5e7bb9050a417e5c6cffc8f"
+resolved_commit = "34040c9c568585f6929bedeaad110ad08f079624"
 
 [skills.django-access-review]
 source = "getsentry/skills"
@@ -101,13 +101,13 @@ resolved_commit = "c2f99a5b04b4cd992ec3022d7c2c3e23e938d241"
 source = "anthropics/skills"
 resolved_url = "https://github.com/anthropics/skills"
 resolved_path = "skills/doc-coauthoring"
-resolved_commit = "41bbe19d1a1a7eaab5e7bb9050a417e5c6cffc8f"
+resolved_commit = "34040c9c568585f6929bedeaad110ad08f079624"
 
 [skills.docx]
 source = "anthropics/skills"
 resolved_url = "https://github.com/anthropics/skills"
 resolved_path = "skills/docx"
-resolved_commit = "41bbe19d1a1a7eaab5e7bb9050a417e5c6cffc8f"
+resolved_commit = "34040c9c568585f6929bedeaad110ad08f079624"
 
 [skills.dotagents]
 source = "getsentry/dotagents"
@@ -126,7 +126,7 @@ resolved_commit = "c2f99a5b04b4cd992ec3022d7c2c3e23e938d241"
 source = "anthropics/skills"
 resolved_url = "https://github.com/anthropics/skills"
 resolved_path = "skills/frontend-design"
-resolved_commit = "41bbe19d1a1a7eaab5e7bb9050a417e5c6cffc8f"
+resolved_commit = "34040c9c568585f6929bedeaad110ad08f079624"
 
 [skills.gh-review-requests]
 source = "getsentry/skills"
@@ -144,19 +144,19 @@ resolved_commit = "c2f99a5b04b4cd992ec3022d7c2c3e23e938d241"
 source = "LRNZ09/skills"
 resolved_url = "https://github.com/LRNZ09/skills"
 resolved_path = "skills/grill"
-resolved_commit = "b8f7b532b8a084853af08e07caa310cd67613eb3"
+resolved_commit = "6000ac3fef4b85134865e7860e0a561da99739fa"
 
 [skills.handoff]
 source = "LRNZ09/skills"
 resolved_url = "https://github.com/LRNZ09/skills"
 resolved_path = "skills/handoff"
-resolved_commit = "b8f7b532b8a084853af08e07caa310cd67613eb3"
+resolved_commit = "6000ac3fef4b85134865e7860e0a561da99739fa"
 
 [skills.improve-codebase-architecture]
 source = "LRNZ09/skills"
 resolved_url = "https://github.com/LRNZ09/skills"
 resolved_path = "skills/improve-codebase-architecture"
-resolved_commit = "b8f7b532b8a084853af08e07caa310cd67613eb3"
+resolved_commit = "6000ac3fef4b85134865e7860e0a561da99739fa"
 
 [skills.iterate-pr]
 source = "getsentry/skills"
@@ -168,19 +168,19 @@ resolved_commit = "c2f99a5b04b4cd992ec3022d7c2c3e23e938d241"
 source = "anthropics/skills"
 resolved_url = "https://github.com/anthropics/skills"
 resolved_path = "skills/mcp-builder"
-resolved_commit = "41bbe19d1a1a7eaab5e7bb9050a417e5c6cffc8f"
+resolved_commit = "34040c9c568585f6929bedeaad110ad08f079624"
 
 [skills.pdf]
 source = "anthropics/skills"
 resolved_url = "https://github.com/anthropics/skills"
 resolved_path = "skills/pdf"
-resolved_commit = "41bbe19d1a1a7eaab5e7bb9050a417e5c6cffc8f"
+resolved_commit = "34040c9c568585f6929bedeaad110ad08f079624"
 
 [skills.pptx]
 source = "anthropics/skills"
 resolved_url = "https://github.com/anthropics/skills"
 resolved_path = "skills/pptx"
-resolved_commit = "41bbe19d1a1a7eaab5e7bb9050a417e5c6cffc8f"
+resolved_commit = "34040c9c568585f6929bedeaad110ad08f079624"
 
 [skills.pr-link-issue]
 source = "getsentry/skills"
@@ -210,7 +210,13 @@ resolved_commit = "c2f99a5b04b4cd992ec3022d7c2c3e23e938d241"
 source = "LRNZ09/skills"
 resolved_url = "https://github.com/LRNZ09/skills"
 resolved_path = "skills/prototype"
-resolved_commit = "b8f7b532b8a084853af08e07caa310cd67613eb3"
+resolved_commit = "6000ac3fef4b85134865e7860e0a561da99739fa"
+
+[skills.record-user-journey]
+source = "LRNZ09/skills"
+resolved_url = "https://github.com/LRNZ09/skills"
+resolved_path = "skills/record-user-journey"
+resolved_commit = "6000ac3fef4b85134865e7860e0a561da99739fa"
 
 [skills.security-review]
 source = "getsentry/skills"
@@ -234,40 +240,40 @@ resolved_commit = "c2f99a5b04b4cd992ec3022d7c2c3e23e938d241"
 source = "anthropics/skills"
 resolved_url = "https://github.com/anthropics/skills"
 resolved_path = "skills/slack-gif-creator"
-resolved_commit = "41bbe19d1a1a7eaab5e7bb9050a417e5c6cffc8f"
+resolved_commit = "34040c9c568585f6929bedeaad110ad08f079624"
 
 [skills.tdd]
 source = "LRNZ09/skills"
 resolved_url = "https://github.com/LRNZ09/skills"
 resolved_path = "skills/tdd"
-resolved_commit = "b8f7b532b8a084853af08e07caa310cd67613eb3"
+resolved_commit = "6000ac3fef4b85134865e7860e0a561da99739fa"
 
 [skills.theme-factory]
 source = "anthropics/skills"
 resolved_url = "https://github.com/anthropics/skills"
 resolved_path = "skills/theme-factory"
-resolved_commit = "41bbe19d1a1a7eaab5e7bb9050a417e5c6cffc8f"
+resolved_commit = "34040c9c568585f6929bedeaad110ad08f079624"
 
 [skills.triage]
 source = "LRNZ09/skills"
 resolved_url = "https://github.com/LRNZ09/skills"
 resolved_path = "skills/triage"
-resolved_commit = "b8f7b532b8a084853af08e07caa310cd67613eb3"
+resolved_commit = "6000ac3fef4b85134865e7860e0a561da99739fa"
 
 [skills.web-artifacts-builder]
 source = "anthropics/skills"
 resolved_url = "https://github.com/anthropics/skills"
 resolved_path = "skills/web-artifacts-builder"
-resolved_commit = "41bbe19d1a1a7eaab5e7bb9050a417e5c6cffc8f"
+resolved_commit = "34040c9c568585f6929bedeaad110ad08f079624"
 
 [skills.webapp-testing]
 source = "anthropics/skills"
 resolved_url = "https://github.com/anthropics/skills"
 resolved_path = "skills/webapp-testing"
-resolved_commit = "41bbe19d1a1a7eaab5e7bb9050a417e5c6cffc8f"
+resolved_commit = "34040c9c568585f6929bedeaad110ad08f079624"
 
 [skills.xlsx]
 source = "anthropics/skills"
 resolved_url = "https://github.com/anthropics/skills"
 resolved_path = "skills/xlsx"
-resolved_commit = "41bbe19d1a1a7eaab5e7bb9050a417e5c6cffc8f"
+resolved_commit = "34040c9c568585f6929bedeaad110ad08f079624"
