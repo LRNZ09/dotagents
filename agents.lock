@@ -29,7 +29,7 @@ resolved_commit = "34040c9c568585f6929bedeaad110ad08f079624"
 source = "LRNZ09/skills"
 resolved_url = "https://github.com/LRNZ09/skills"
 resolved_path = "skills/caveman"
-resolved_commit = "6000ac3fef4b85134865e7860e0a561da99739fa"
+resolved_commit = "4699c7eb0d70cd45e01105012406471809db38c3"
 
 [skills.claude-settings-audit]
 source = "getsentry/skills"
@@ -53,7 +53,7 @@ resolved_commit = "c2f99a5b04b4cd992ec3022d7c2c3e23e938d241"
 source = "LRNZ09/skills"
 resolved_url = "https://github.com/LRNZ09/skills"
 resolved_path = "skills/codename"
-resolved_commit = "6000ac3fef4b85134865e7860e0a561da99739fa"
+resolved_commit = "4699c7eb0d70cd45e01105012406471809db38c3"
 
 [skills.commit]
 source = "getsentry/skills"
@@ -65,7 +65,7 @@ resolved_commit = "c2f99a5b04b4cd992ec3022d7c2c3e23e938d241"
 source = "LRNZ09/skills"
 resolved_url = "https://github.com/LRNZ09/skills"
 resolved_path = "skills/council"
-resolved_commit = "6000ac3fef4b85134865e7860e0a561da99739fa"
+resolved_commit = "4699c7eb0d70cd45e01105012406471809db38c3"
 
 [skills.create-branch]
 source = "getsentry/skills"
@@ -77,7 +77,7 @@ resolved_commit = "c2f99a5b04b4cd992ec3022d7c2c3e23e938d241"
 source = "LRNZ09/skills"
 resolved_url = "https://github.com/LRNZ09/skills"
 resolved_path = "skills/diagnose"
-resolved_commit = "6000ac3fef4b85134865e7860e0a561da99739fa"
+resolved_commit = "4699c7eb0d70cd45e01105012406471809db38c3"
 
 [skills.discernment-nudge]
 source = "anthropics/skills"
@@ -144,19 +144,19 @@ resolved_commit = "c2f99a5b04b4cd992ec3022d7c2c3e23e938d241"
 source = "LRNZ09/skills"
 resolved_url = "https://github.com/LRNZ09/skills"
 resolved_path = "skills/grill"
-resolved_commit = "6000ac3fef4b85134865e7860e0a561da99739fa"
+resolved_commit = "4699c7eb0d70cd45e01105012406471809db38c3"
 
 [skills.handoff]
 source = "LRNZ09/skills"
 resolved_url = "https://github.com/LRNZ09/skills"
 resolved_path = "skills/handoff"
-resolved_commit = "6000ac3fef4b85134865e7860e0a561da99739fa"
+resolved_commit = "4699c7eb0d70cd45e01105012406471809db38c3"
 
 [skills.improve-codebase-architecture]
 source = "LRNZ09/skills"
 resolved_url = "https://github.com/LRNZ09/skills"
 resolved_path = "skills/improve-codebase-architecture"
-resolved_commit = "6000ac3fef4b85134865e7860e0a561da99739fa"
+resolved_commit = "4699c7eb0d70cd45e01105012406471809db38c3"
 
 [skills.iterate-pr]
 source = "getsentry/skills"
@@ -210,13 +210,13 @@ resolved_commit = "c2f99a5b04b4cd992ec3022d7c2c3e23e938d241"
 source = "LRNZ09/skills"
 resolved_url = "https://github.com/LRNZ09/skills"
 resolved_path = "skills/prototype"
-resolved_commit = "6000ac3fef4b85134865e7860e0a561da99739fa"
+resolved_commit = "4699c7eb0d70cd45e01105012406471809db38c3"
 
 [skills.record-user-journey]
 source = "LRNZ09/skills"
 resolved_url = "https://github.com/LRNZ09/skills"
 resolved_path = "skills/record-user-journey"
-resolved_commit = "6000ac3fef4b85134865e7860e0a561da99739fa"
+resolved_commit = "4699c7eb0d70cd45e01105012406471809db38c3"
 
 [skills.security-review]
 source = "getsentry/skills"
@@ -246,7 +246,7 @@ resolved_commit = "34040c9c568585f6929bedeaad110ad08f079624"
 source = "LRNZ09/skills"
 resolved_url = "https://github.com/LRNZ09/skills"
 resolved_path = "skills/tdd"
-resolved_commit = "6000ac3fef4b85134865e7860e0a561da99739fa"
+resolved_commit = "4699c7eb0d70cd45e01105012406471809db38c3"
 
 [skills.theme-factory]
 source = "anthropics/skills"
@@ -258,7 +258,7 @@ resolved_commit = "34040c9c568585f6929bedeaad110ad08f079624"
 source = "LRNZ09/skills"
 resolved_url = "https://github.com/LRNZ09/skills"
 resolved_path = "skills/triage"
-resolved_commit = "6000ac3fef4b85134865e7860e0a561da99739fa"
+resolved_commit = "4699c7eb0d70cd45e01105012406471809db38c3"
 
 [skills.web-artifacts-builder]
 source = "anthropics/skills"
